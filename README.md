@@ -2,5 +2,6 @@ Image-Compressor
 ================
 JPEG compression Technique
 
-To make an executable file just run the make file. This set of code takes a jpeg image as input and outputs 
-a compressed jpeg image.
+This program takes a jpeg image(grey scale) and reduces its size and cretes a compressed jpeg image(grey scale).
+All you have to do is make an executable, and it is quite very simple too - just run the make file and start 
+compressing images.
